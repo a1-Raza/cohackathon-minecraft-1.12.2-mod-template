@@ -1,8 +1,10 @@
 package com.AbdurrahmanRaza.ModTemplate;
 
+import com.AbdurrahmanRaza.ModTemplate.init.SmeltingInit;
 import com.AbdurrahmanRaza.ModTemplate.proxy.CommonProxy;
 import com.AbdurrahmanRaza.ModTemplate.tabs.TemplateTab;
 import com.AbdurrahmanRaza.ModTemplate.util.Reference;
+import com.AbdurrahmanRaza.ModTemplate.util.handlers.RegistryHandler;
 
 import net.minecraft.creativetab.CreativeTabs;
 import net.minecraftforge.fml.common.Mod;
@@ -28,14 +30,13 @@ public class Main
 	@EventHandler
 	public static void Preinit(FMLPreInitializationEvent event)
 	{
-		//GameRegistry.registerWorldGenerator(new ModWorldGen(), 3);
-		//RegistryHandler.preInitRegistries();
+		RegistryHandler.preInitRegistries();
 	}
 	
 	@EventHandler
 	public static void init(FMLInitializationEvent event)
 	{
-		//ModRecipes.init();
+		SmeltingInit.init();
 	}
 	
 	@EventHandler

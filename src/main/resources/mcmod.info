@@ -2,13 +2,13 @@
 {
   "modid": "mymodid",
   "name": "mod name",
-  "description": "Template for making a mod for 1.12.2",
+  "description": "Template for making a mod for 1.12.2. Contains files for creating and register new items (mainly regular items, blocks, tools, and ores), example items and textures, etc.",
   "version": "1.0",
   "mcversion": "1.12.2",
   "url": "",
   "updateUrl": "",
   "authorList": ["Abdurrahman Raza"],
-  "credits": "TechnoVision and Harry Talks, I first learned modding from them",
+  "credits": "Mojang/Minecraft for textures (except for one item and the blocks) that I modified, TechnoVision and Harry Talks for explaining the process of making a mod",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []

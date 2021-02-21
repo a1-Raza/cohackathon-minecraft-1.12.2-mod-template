@@ -1,0 +1,30 @@
+{ 
+    "type": "minecraft:crafting_shapeless",
+
+    "ingredients": 
+    [
+
+    {
+      "item": "mymodid:template_item"
+    },
+    
+    {
+      "item": "mymodid:template_item"
+    },
+    
+    {
+      "item": "mymodid:template_item"
+    },
+
+    {
+      "item": "mymodid:template_item"
+    }
+    
+    ],
+
+    "result": 
+    {
+        "item": "mymodid:template_block",
+        "count": 1
+    }
+}

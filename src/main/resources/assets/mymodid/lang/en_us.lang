@@ -1,7 +1,22 @@
-// Double-dashes are comments
-
-//Creative Tabs
+//Your Creative Tabs
 itemGroup.templatetab=Template Tab
 
 //Your Mod Items
 item.template_item.name=Template Item
+
+//Your Mod Blocks
+tile.template_block.name=Template Block
+tile.directional_template_block.name=Directional Template Block
+
+//Your Tools
+item.template_axe.name=Template Axe
+item.template_hoe.name=Template Hoe
+item.template_pickaxe.name=Template Pickaxe
+item.template_shovel.name=Template Shovel
+item.template_sword.name=Template Sword
+
+//Your Tools
+item.template_helmet.name=Template Helmet
+item.template_chestplate.name=Template Chestplate
+item.template_leggings.name=Template Leggings
+item.template_boots.name=Template Boots
