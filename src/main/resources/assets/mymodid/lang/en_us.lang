@@ -1,0 +1,7 @@
+// Double-dashes are comments
+
+//Creative Tabs
+itemGroup.templatetab=Template Tab
+
+//Your Mod Items
+item.template_item.name=Template Item

@@ -1,0 +1,16 @@
+[
+{
+  "modid": "mymodid",
+  "name": "mod name",
+  "description": "Template for making a mod for 1.12.2",
+  "version": "1.0",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Abdurrahman Raza"],
+  "credits": "TechnoVision and Harry Talks, I first learned modding from them",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
