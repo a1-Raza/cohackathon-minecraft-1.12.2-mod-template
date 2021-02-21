@@ -50,9 +50,6 @@ public class RegistryHandler
 	
 	public static void preInitRegistries()
 	{
-		//GameRegistry.registerWorldGenerator(new ModWorldGen(), 0);
 		
-		//ModEntities.registerEntities();
-		//RenderHandler.registerEntityRenders();
 	}
 }
